@@ -7,11 +7,11 @@ The application leverages a Retrieval-Augmented Generation (RAG) approach and in
 ###    Team Members
 
 | Name          | Student Number |
-|---------------|---------------|
-| Mia Mainka    | 3047072       |
-| Marisa Jordan | 4000404       |
-| Daniel Kähm   | 4001842       |
-| Nadeem Hakimi | 4000409       |
+|---------------|----------------|
+| Mia Mainka    | 3047072        |
+| Marisa Jordan | 4000444        |
+| Daniel Kähm   | 4001842        |
+| Nadeem Hakimi | 4000409        |
 
 ## Project Description
 
