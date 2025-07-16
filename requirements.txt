@@ -1,0 +1,8 @@
+Flask
+requests
+PyMuPDF
+langchain
+faiss-cpu
+sentence-transformers
+langdetect
+python-dotenv
