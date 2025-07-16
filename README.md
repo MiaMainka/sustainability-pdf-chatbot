@@ -29,7 +29,7 @@ This approach is especially helpful for identifying topics such as CO₂ emissio
 
 ---
 
-## ⚙ Installation & Usage Guide
+##  Installation & Usage Guide
 
 ### Requirements
 
