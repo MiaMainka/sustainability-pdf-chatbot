@@ -35,7 +35,7 @@ This approach is especially helpful for identifying topics such as CO₂ emissio
 
 To run this project, ensure the following are installed on your system:
 
-- Python 3.13
+- Python 3.13, 3.11 or 3.10
 - `pip` (Python package installer)
 -  PyCharm (Recommended) or Visual Studio Code as IDE
 
@@ -158,6 +158,24 @@ The development then proceeded in logical phases:
 - Final project structure and code cleanup
 
 Work was reviewed jointly in group meetings and discussions. Even though tasks were assigned individually, major components were integrated and evaluated collaboratively.
+
+
+## Development Milestones
+
+#### 1. Working LLM Connection
+First, we started with a minimal prototype:
+a simple web interface where users could only upload a PDF and ask a single question.
+We connected the backend to an LLM which received the entire PDF text along with the question.
+#### 2. RAG Integration
+In the second stage we concentrated on implementing RAG into our backend. 
+We build a few functions for this, so that only the relevant chunks would be sent to the LLM which enhanced performance and speed significantly.
+#### 3. Frontend Improvements
+We redesigned the web interface to support the experience of chatting with the PDF, so that users could ask more than one question.
+We also added clearer formatting and improved the Layout using HTML, JavaScript and CSS.
+#### 4. Extra Features
+After that, we added useful features like downloading the chat history, extracting structured information as JSON, and clearing the chat.
+#### 5. Refining and Optimization
+In the last stage, we optimized the backend for speed and robustness, cleaned up the code structure and polished the frontend to deliver a more professional user experience.
 
 ---
 ##  Technologies Used
